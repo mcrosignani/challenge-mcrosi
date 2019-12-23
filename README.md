@@ -30,10 +30,10 @@ The production app is hosted with Pivotal - Cloud Foundry. The cloud app uses El
 ## API Endpoints
 
 ### GET: / (Home)
-(https://api-challenge-mcrosi-sweet-buffalo-yr.cfapps.io/)
+https://api-challenge-mcrosi-sweet-buffalo-yr.cfapps.io/
 
 ### POST: /prediction
-(https://api-challenge-mcrosi-sweet-buffalo-yr.cfapps.io/prediction)
+https://api-challenge-mcrosi-sweet-buffalo-yr.cfapps.io/prediction
 
 An idempotent method that calculate the position of the planets in every day, and predict the weather of the system.
 
@@ -43,9 +43,9 @@ An idempotent method that calculate the position of the planets in every day, an
 }
 
 ## GET: /vulcano/:day
-(https://api-challenge-mcrosi-sweet-buffalo-yr.cfapps.io/vulcano/5)
+https://api-challenge-mcrosi-sweet-buffalo-yr.cfapps.io/vulcano/5
 
 Return details of the system on an specific day
 
 ## GET: /statistics
-(https://api-challenge-mcrosi-sweet-buffalo-yr.cfapps.io/statistics)
+https://api-challenge-mcrosi-sweet-buffalo-yr.cfapps.io/statistics
