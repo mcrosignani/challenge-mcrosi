@@ -2,7 +2,7 @@
 
 ## Description
 
-![Solar System](https://github.com/mcrosignani/challenge-mcrosi/solarSystem.png)
+![Solar System](https://github.com/mcrosignani/challenge-mcrosi/blob/master/solarSystem.PNG)
 
 API that allows predict the weather based on the position of the planets, and their relationship with the sun
 
