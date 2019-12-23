@@ -1,0 +1,6 @@
+---
+applications:
+- name: api-challenge-mcrosi
+  random-route: true
+  path: api
+  memory: 512M

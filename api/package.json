@@ -1,0 +1,26 @@
+{
+  "name": "mcrosi-challenge-api",
+  "version": "1.0.0",
+  "description": "API for ML challenge",
+  "main": "app.js",
+  "scripts": {
+    "start": "node dist/server.js",
+    "dev": "tsc && node dist/server.js"
+  },
+  "author": "MCrosignani",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.7.3"
+  },
+  "dependencies": {
+    "@types/node": "^12.12.18",
+    "class-validator": "^0.11.0",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "pg": "^7.14.0",
+    "ts-node": "^8.5.4",
+    "tsconfig-paths": "^3.9.0",
+    "typeorm": "^0.2.21"
+  }
+}
